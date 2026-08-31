@@ -1,3 +1,5 @@
+document.documentElement.classList.add("js");
+
 (() => {
   const nodes = document.querySelectorAll(".reveal");
   if (!nodes.length) return;
@@ -16,8 +18,13 @@
         }
       });
     },
-    { rootMargin: "0px 0px -8% 0px", threshold: 0.12 }
+    { rootMargin: "0px 0px -6% 0px", threshold: 0.08 }
   );
 
   nodes.forEach((el) => io.observe(el));
+
+  // Safety: if anything never intersects (print, odd viewports), reveal soon
+  window.setTimeout(() => {
+    nodes.forEach((el) => el.classList.add("in"));
+  }, 2500);
 })();
