@@ -1,0 +1,10 @@
+{
+  "name": "sweet-bs-bakery-v2",
+  "private": true,
+  "version": "2.0.0",
+  "scripts": {
+    "dev": "npx --yes serve public -l 4173",
+    "start": "npx --yes serve public -l 4173",
+    "preview": "npx --yes serve public -l 4173"
+  }
+}
