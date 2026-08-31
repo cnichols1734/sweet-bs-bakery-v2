@@ -1,4 +1,4 @@
-/* Sweet B's Bakery V2 — original one-pager
+/* Sweet B's Bakery V2: original one-pager
    Palette from the shop: pink door, hedge, neon, teal chairs, florals.
    Neon script = sign only. Body = clear professional sans. */
 
@@ -63,7 +63,7 @@ a:hover { color: var(--pink-deep); }
   white-space: nowrap; border: 0;
 }
 
-/* ——— Header ——— */
+/* Header */
 .site-header {
   position: sticky;
   top: 0;
@@ -166,7 +166,7 @@ a:hover { color: var(--pink-deep); }
   white-space: nowrap;
 }
 
-/* ——— Hero ——— */
+/* Hero */
 .hero {
   max-width: 74rem;
   margin: 0 auto;
@@ -249,7 +249,7 @@ a:hover { color: var(--pink-deep); }
   object-position: 20% 30%;
 }
 
-/* ——— Sections ——— */
+/* Sections */
 .section {
   max-width: 74rem;
   margin: 0 auto;
@@ -528,7 +528,7 @@ blockquote p::before {
   font-weight: 600;
 }
 
-/* Motion — visible by default; enhance when JS marks ready */
+/* Motion: visible by default; enhance when JS marks ready */
 .reveal {
   opacity: 1;
   transform: none;
@@ -633,7 +633,7 @@ blockquote p::before {
 
   .hero h1 { font-size: 3.85rem; }
 
-  /* Keep the photo as a band under the offer — not a side-panel hero */
+  /* Keep the photo as a band under the offer, not a side-panel hero */
   .hero-band img {
     height: clamp(14rem, 18vw, 17.5rem);
   }

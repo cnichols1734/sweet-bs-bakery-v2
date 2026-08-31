@@ -1,4 +1,4 @@
-# Sweet B's Bakery — concept
+# Sweet B's Bakery: concept
 
 Fresh direction. Not a patch of the live site. Not a rewrite of an old CONCEPT file.
 
@@ -6,10 +6,10 @@ Fresh direction. Not a patch of the live site. Not a rewrite of an old CONCEPT f
 
 Looked at these live sites for typography, photography, hierarchy, and how a real shop talks. Do not copy their layouts.
 
-- https://www.foxinthesnow.com/ — Bakery. The rooms are part of the offer, not a background. Hours and place sit in the open. Food and space are both photographed.
-- https://www.littletartatl.com/ — Neighborhood bakery. Complete sentences. Locations and hours are easy to find. The site feels like a shop, not a brochure template.
-- https://tartinebakery.com/ — Bakery. Product photography does the selling. The food is the first thing you understand.
-- https://www.saipua.com/ — Florist / farm, not a bakery. Photography and a clear personality without a cute-shop template. Useful as a reminder that a small maker can look considered.
+- https://www.foxinthesnow.com/: Bakery. The rooms are part of the offer, not a background. Hours and place sit in the open. Food and space are both photographed.
+- https://www.littletartatl.com/: Neighborhood bakery. Complete sentences. Locations and hours are easy to find. The site feels like a shop, not a brochure template.
+- https://tartinebakery.com/: Bakery. Product photography does the selling. The food is the first thing you understand.
+- https://www.saipua.com/: Florist / farm, not a bakery. Photography and a clear personality without a cute-shop template. Useful as a reminder that a small maker can look considered.
 
 What to take: photograph the food and the room; make hours and the Cove address obvious; write like a person who owns a bakery. What not to take: Fox's multi-location system, Tartine's "each day" lockup, Little Tart's farmers-market origin story, Saipua's merch shop.
 
