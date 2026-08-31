@@ -9,7 +9,7 @@ Customer-facing claims drawn only from verified facts.
 
 ### Direction A — The pink room as destination
 **H1:** The pink door on FM 565  
-**Supporting:** Cupcakes in the case, custom cakes for the occasions that matter, and a room built for the moment you walk in. Sweet B's Bakery in Cove.  
+**Supporting:** Cupcakes, custom cakes, and a little pink bakery on FM 565. Sweet B's Bakery in Cove.  
 **Primary CTA:** Call (281) 839-8071  
 
 ### Direction B — Fresh cupcakes, first
@@ -48,7 +48,7 @@ Direction A leads with the pink door—the most distinctive, ownable signal of t
 ### Hero
 **Eyebrow / place:** Cove, Texas  
 **H1:** The pink door on FM 565  
-**Supporting:** Cupcakes in the case, custom cakes for the occasions that matter, and a room built for the moment you walk in.  
+**Supporting:** Cupcakes, custom cakes, and a little pink bakery on FM 565.  
 **Hours (first screen):**  
 Mon closed · Tue–Fri 9 AM–6 PM · Sat 9 AM–2 PM · Sun closed  
 **Primary CTA:** Call (281) 839-8071  
